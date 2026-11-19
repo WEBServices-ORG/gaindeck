@@ -4,13 +4,13 @@
 
 Scan your music, review loudness and peaks, and write ReplayGain tags for more consistent playback in compatible players. A native Mac app powered by [rsgain](https://github.com/complexlogic/rsgain). A WEBServices product.
 
-**GainDeck 1.1.1 RC 3 is available: Developer ID signed and notarized, build 5.**
+**GainDeck 1.0.0 for Apple Silicon.** The installer is signed with Developer ID and notarized by Apple.
 
-App version: **1.1.1** (release candidate 3). **ReplayGain 2.0** is the loudness-tagging standard used by GainDeck; “2.0” is the standard’s version, not the app version.
+GainDeck uses the **ReplayGain 2.0** loudness-tagging standard.
 
-[Download preview DMG](https://github.com/WEBServices-ORG/gaindeck/releases/download/v1.1.1-rc.3/GainDeck-1.1.1-arm64.dmg) · [RC notes, checksums and engine sources](https://github.com/WEBServices-ORG/gaindeck/releases/tag/v1.1.1-rc.3)
+[Download the Apple Silicon DMG](https://github.com/WEBServices-ORG/gaindeck/releases/download/v1.0.0/GainDeck-1.0.0-arm64.dmg) · [Release notes, checksums and engine sources](https://github.com/WEBServices-ORG/gaindeck/releases/tag/v1.0.0)
 
-RC 3 adds vivid navigation buttons, larger orange/gray text, a wider folder chooser and an expanded About window. Four full-width groups remain. Existing RC users can use Check for Updates. Easy/Custom screenshots were verified; full keyboard and updater installation acceptance remain pending. This is a testing release; use copies of your audio.
+If you installed the 1.1.1 preview, choose **Check for Updates** to move to the first stable release. In Custom Mode, analyze files before choosing to write or remove ReplayGain tags.
 
 [Website](https://webservices-org.github.io/gaindeck/) · [Releases](https://github.com/WEBServices-ORG/gaindeck/releases) · [Report an issue](https://github.com/WEBServices-ORG/gaindeck/issues) · [Privacy](https://webservices-org.github.io/gaindeck/privacy.html)
 
